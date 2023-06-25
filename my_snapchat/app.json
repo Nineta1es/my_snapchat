@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my_snapchat",
+    "slug": "my_snapchat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
